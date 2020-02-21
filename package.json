@@ -30,7 +30,7 @@
   "dependencies": {
     "@hyperswarm/discovery": "^1.6.0",
     "nanoresource": "^1.0.0",
-    "utp-native": "^2.1.3"
+    "utp-native": "github:vivafoundation/utp-native-nodejs-mobile"
   },
   "devDependencies": {
     "@hyperswarm/dht": "0.0.1",
